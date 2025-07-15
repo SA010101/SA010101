@@ -1,6 +1,4 @@
-# Hi, I'm Shaan Aslam!
-
-<img src="https://raw.githubusercontent.com/ShaanAslam/assets/main/wave.gif" width="40px" alt="Waving hand" />
+# Hi 👋, I'm Shaan Aslam!
 
 A **creative and results-driven Frontend Developer** with a degree in **Computer Science**. I specialize in **React.js** and have hands-on experience building modern, responsive, and user-friendly web applications.
 
