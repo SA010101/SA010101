@@ -1,51 +1,72 @@
-👋 Hi, I'm Shaan Aslam!
-I'm a Frontend Developer with a passion for building clean, performant, and user-friendly web applications using React.js. With a degree in Computer Science and a strong eye for detail, I bring designs to life with precision and creativity.
+<img src="https://raw.githubusercontent.com/ShaanAslam/assets/main/wave.gif" width="40px" />  
+# Hi, I'm Shaan Aslam!
 
-From sleek UIs to reusable component systems, I thrive on turning complex ideas into seamless digital experiences.
+A **creative and results-driven Frontend Developer** with a degree in **Computer Science**. I specialize in **React.js** and have hands-on experience building modern, responsive, and user-friendly web applications.
 
-🧠 What I've Worked On
-Here are some of the real-world projects I've built or contributed to:
+From turning designs into pixel-perfect interfaces to integrating APIs and optimizing user experiences, I enjoy building clean and scalable frontends that deliver impact.
 
-🎓 Find-My-Tutor – A platform to connect students with tutors, featuring role-based dashboards and booking flow
+---
 
-🍽️ DishTribe – A modern UI for a restaurant/food delivery app with menu filtering and cart integration
+## 🔧 Projects I’ve Worked On
 
-💸 Personal-Finance-Tracker – Track income, expenses, and savings goals with easy-to-read charts
+Over the years, I’ve contributed to and built several real-world projects, including:
 
-🛒 Ecommerce App – A fully responsive shopping platform with product search, cart, and user authentication
+- 🧑‍🏫 **Find-My-Tutor** – Role-based student/tutor portal with session booking and dashboards  
+- 🍽️ **DishTribe** – A restaurant/food delivery UI with cart, filters, and order flow  
+- 💸 **Personal-Finance-Tracker** – Track income, expenses, and budgeting visually  
+- 🛍️ **Ecommerce App** – Responsive shopping frontend with search, filter, cart & auth flow  
 
-⚙️ Tech Stack & Tools
-Languages:
+My focus is always on writing **clean, maintainable code** and building smooth, responsive user experiences.
+
+---
+
+## 🚀 Tech Stacks I Work With
+
+**Languages**  
 HTML · CSS · JavaScript
 
-Frameworks & Libraries:
+**Libraries & Frameworks**  
 React.js · Redux · Tailwind CSS
 
-Tools & Platforms:
-Git · VS Code · Figma · Postman · Firebase
+**Tools & Platforms**  
+Git · VS Code · Figma · Postman
 
-Core Skills:
-API Integration · State Management · Responsive Design · Component Architecture · Reusable UI Patterns
+**Core Skills**  
+📱 Responsive Design  
+🔁 State Management  
+🔌 API Integration  
+🧩 Component Reusability  
+🎨 UI/UX Optimization
 
-🌱 Currently Building
-A React-based Task Management System featuring role-based access, task assignments, and real-time updates.
+---
 
-🚀 Open to Work
-I'm currently looking for:
+## 🌱 Currently Working On
 
-🧑‍💻 Frontend Developer roles (Full-Time / Internship)
+A **React-based Task Management System** with user roles, real-time task updates, and dashboards tailored to each role.
 
-🤝 Freelance projects or collaborations
+---
 
-💡 Startups or teams working on something impactful
+## 📫 Let's Connect
 
-📫 Let’s Connect!
-🔗 LinkedIn: linkedin.com/in/shaan-aslam-463999357
+📧 **Email:** shaanaslam0101@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/shaan-aslam-463999357](https://www.linkedin.com/in/shaan-aslam-463999357/)  
+💻 **GitHub:** [github.com/SA010101](https://github.com/SA010101)
 
-💻 GitHub: github.com/SA010101
+---
 
-📧 Email: shaanaslam0101@gmail.com
+## 💼 Looking to Hire Me?
 
-💡 Fun Fact
-I'm always excited to take on new challenges — especially ones that push me to learn, solve problems, and build better experiences for users!
+I’m open to:
+
+- 🧑‍💻 **Frontend Developer** roles (Full-Time / Internship)  
+- 🤝 Freelance projects or remote work  
+- 🚀 Startups or creative teams building something awesome
+
+If you're looking for someone who codes with care and builds with passion — 👉 **Let’s talk!**
+
+---
+
+## 💡 Fun Fact
+
+I’m always curious, always learning — and I love building things that solve real problems and make life easier.
 
