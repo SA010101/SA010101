@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/ShaanAslam/assets/main/wave.gif" width="40px" />  
-# Hi, I'm Shaan Aslam!
+# Hi there <img src="https://raw.githubusercontent.com/ShaanAslam/assets/main/wave.gif" width="40px">, I'm Shaan Aslam!
 
 A **creative and results-driven Frontend Developer** with a degree in **Computer Science**. I specialize in **React.js** and have hands-on experience building modern, responsive, and user-friendly web applications.
 
@@ -26,10 +25,10 @@ My focus is always on writing **clean, maintainable code** and building smooth, 
 HTML · CSS · JavaScript
 
 **Libraries & Frameworks**  
-React.js · Redux · Tailwind CSS
+React.js · Redux · Tailwind CSS · Bootstrap
 
 **Tools & Platforms**  
-Git · VS Code · Figma · Postman
+Git · VS Code · Figma · Postman · Firebase
 
 **Core Skills**  
 📱 Responsive Design  
@@ -69,4 +68,3 @@ If you're looking for someone who codes with care and builds with passion — �
 ## 💡 Fun Fact
 
 I’m always curious, always learning — and I love building things that solve real problems and make life easier.
-
