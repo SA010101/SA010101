@@ -49,7 +49,7 @@ A **React-based Task Management System** with user roles, real-time task updates
 
 📧 **Email:** shaanaslam0101@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/shaan-aslam-463999357](https://www.linkedin.com/in/shaan-aslam-463999357/)  
-💻 **GitHub:** [github.com/SA010101](https://github.com/SA010101)
+💻 **GitHub:** [github.com/SA-0101](https://github.com/SA-0101)
 
 ---
 
