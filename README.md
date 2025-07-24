@@ -10,10 +10,10 @@ From turning designs into pixel-perfect interfaces to integrating APIs and optim
 
 Over the years, I’ve contributed to and built several real-world projects, including:
 
-- 🧑‍🏫 **Find-My-Tutor** – Role-based student/tutor portal with session booking and dashboards  
+- 🧑‍🏫 **Find My Tutor** – Role-based student/tutor portal with session booking and dashboards  
 - 🍽️ **DishTribe** – A restaurant/food delivery UI with cart, filters, and order flow  
-- 💸 **Personal-Finance-Tracker** – Track income, expenses, and budgeting visually  
-- 🛍️ **Ecommerce App** – Responsive shopping frontend with search, filter, cart & auth flow  
+- 💸 **Personal Finance Tracker** – Track income, expenses, and budgeting visually  
+- 🛍️ **SuperMart** – Responsive shopping frontend with search, filter, cart & auth flow  
 
 My focus is always on writing **clean, maintainable code** and building smooth, responsive user experiences.
 
